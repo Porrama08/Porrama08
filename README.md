@@ -29,7 +29,9 @@ I'm a **Computer Engineering** student at Rangsit University, passionate about s
 
 ---
 
+
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Porrama08&show_icons=true&theme=tokyonight" alt="Porrama's GitHub stats" />
-</p>
+
+![Porrama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porrama08&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porrama08&layout=compact&theme=transparent&border_radius=10)
