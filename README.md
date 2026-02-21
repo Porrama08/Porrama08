@@ -10,11 +10,11 @@ I'm a **Computer Engineering** student at Rangsit University, passionate about s
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,php,dart,python,html,css" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gcp,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=git,ps,pr" />
 </p>
 
 ---
