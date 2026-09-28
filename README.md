@@ -1,45 +1,14 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Porrama Injang
+# สวัสดีครับ 👋 ผม [ชื่อคุณ]
 
-I'm a **Computer Engineering** student at Rangsit University, passionate about software development and creative technology.
+💻 [ตำแหน่ง เช่น Full-Stack Developer]  
+🔭 กำลังทำโปรเจกต์: [ชื่อโปรเจกต์]  
+📫 ติดต่อ: [อีเมล / LinkedIn]
 
-- 🌍 Based in Bangkok, Thailand
-- ✉️ Contact me: [0632253328.aa@gmail.com](mailto:0632253328.aa@gmail.com)
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,php,dart,python,html,css" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,ps,pr" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://www.facebook.com/Porrama%20Injang" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="http://www.instagram.com/pxrmaii_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://github.com/Porrama08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Porrama08&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porrama08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Porrama08&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
